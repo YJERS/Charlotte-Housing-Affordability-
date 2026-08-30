@@ -17,7 +17,7 @@ Charlotte has experienced a significant housing affordability crisis as rapid po
 
 
 ## 4. Model
-I ran a linear regression predicting rent burden from median household income, racial composition, public transit usage, and population. Public transit access and median household income were the strongest predictors of rent burden across all of these census tracts.
+I ran a linear regression predicting rent burden from median household income, racial composition, public transit usage, and population. Public transit access was in particular the strongest predictor of rent burden across all of these census tracts.
 
 ## 5. Limitations
 The model's R² was negative, indicating missing variables such as zoning policy, housing stock age, and property values likely play a significant role. Census tract level analysis cannot capture individual household variation and results reflect correlations, not causation.
